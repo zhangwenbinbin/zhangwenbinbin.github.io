@@ -12,3 +12,6 @@
 ## 我的微信公众号
 
 ![](http://www.ityouknow.com/assets/images/keeppuresmile_430.jpg)
+
+## 注
+此项目暂时fork纯洁的微笑repo，暂放待改
