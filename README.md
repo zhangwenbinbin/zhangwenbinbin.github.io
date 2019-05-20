@@ -1,6 +1,7 @@
 
 # 注
 此项目暂时fork纯洁的微笑repo，暂放待改
+原地址:http://www.ityouknow.com/other/2018/09/16/create-blog.html
 
 # 个人博客
 
