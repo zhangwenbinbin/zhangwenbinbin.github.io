@@ -1,3 +1,7 @@
+
+# 注
+此项目暂时fork纯洁的微笑repo，暂放待改
+
 # 个人博客
 
 这是我的个人博客项目，里面会记录生活和技术的点点滴滴。
@@ -13,5 +17,3 @@
 
 ![](http://www.ityouknow.com/assets/images/keeppuresmile_430.jpg)
 
-## 注
-此项目暂时fork纯洁的微笑repo，暂放待改
